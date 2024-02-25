@@ -1,2 +1,3 @@
 # Git-Practice
-git 练习
+
+练习 git 用的仓库。
